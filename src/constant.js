@@ -1,0 +1,4 @@
+//3,10 , 11
+export const bots = [
+    { bot_name: "bot_3", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_10", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_8", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_1", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_2", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_4", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_5", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_6", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_7", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_8", current_bit: "12,60 ETH", endsInc: "23:30:00" }, { bot_name: "bot_9", current_bit: "12,60 ETH", endsInc: "23:30:00" }
+]

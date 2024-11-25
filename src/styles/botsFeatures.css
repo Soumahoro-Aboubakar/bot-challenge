@@ -1,0 +1,19 @@
+.container {
+  animation: botton-fadeIn-anim 1s ease;
+}
+@keyframes botton-fadeIn-anim {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@media (max-width : 891px){
+  .bot-three {
+    justify-content: center;
+  }
+}

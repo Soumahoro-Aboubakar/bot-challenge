@@ -14,7 +14,7 @@ const BotsCattegories = () => {
           <span className="">All</span>
           <span>Category</span>
         </div>
-        <a href="#" className="block space-y-4 mt-4 flex  items-center space-x-4 ">
+        <a href="#" className="space-y-4 -mt-4 flex  items-center space-x-4 ">
            <GoArrowLeft className="text-3xl"/>
            <GoArrowRight  className="text-6xl -translate-y-2"/>
           

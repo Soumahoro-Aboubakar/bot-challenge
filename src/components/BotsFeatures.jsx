@@ -43,7 +43,7 @@ const BotsFeatures = () => {
           View all artwork
         </a>
       </p>
-      <section className="bots-three justify-center flex md:justify-between  space-x-10 items-center  mt-6 space-y-8 sm:space-y-6 sm:space-x-10 flex-wrap">
+      <section className="bots-three justify-center flex md:justify-between  space-x-10 items-center   mt-6 space-y-8 sm:space-y-6 sm:space-x-10 flex-wrap">
         {bots.slice(0, 3).map((bot, index) => (
           <BotItem bot={bot} index={index} />
         ))}
